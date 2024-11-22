@@ -1,40 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Colorful Heading</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #121212; /* Dark background for better contrast */
-            color: #fff;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        h1 {
-            font-size: 3rem;
-            font-weight: bold;
-            text-align: center;
-            background: linear-gradient(90deg, #ff6f61, #ffa600, #ffee58, #8bc34a, #42a5f5, #ab47bc);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            animation: gradient-animation 6s infinite;
-        }
-        @keyframes gradient-animation {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
-    </style>
-</head>
 <body>
     <h1>Impact of Gaming Habits and Demographics on Mental Health</h1>
 </body>
-</html>
+
+
 # Gaming Habits and Mental Health Analysis
 
 ## Overview
