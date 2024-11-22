@@ -35,28 +35,6 @@
     <h1>Impact of Gaming Habits and Demographics on Mental Health</h1>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Gaming Habits and Mental Health Analysis
 
 ## Overview
